@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Compare USA visitor medical insurance plans. Answer a few questions and find covered insurance options from our trusted partners.">
+    <title>USA Insurance Comparison - JOZIRA</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">JOZIRA<span>™</span></div>
+                <button class="mobile-nav-toggle">☰</button>
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="usa-insurance.html">USA Insurance</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                        <li><a href="terms-conditions.html">Terms & Conditions</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <!-- Breadcrumb -->
+            <div class="breadcrumb">
+                <a href="index.html">Home</a> / USA Insurance
+            </div>
+
+            <section>
+                <h2>USA Visitor Medical Insurance</h2>
+                
+                <div class="comparison-intro">
+                    <p><strong>Use this page to compare visitor medical insurance plans for travel to the USA.</strong></p>
+                    <p>Enter your travel details to view suitable insurance options and understand which plans may fit your needs.</p>
+                </div>
+            </section>
+
+            <!-- Comparison Form -->
+            <section>
+                <div class="comparison-form">
+                    <div class="success-message" style="display: none;"></div>
+                    
+                    <h3 style="text-align: center; margin-top: 0;">Get Your Insurance Comparison</h3>
+                    <p style="text-align: center; color: #666; margin-bottom: 2rem;">Fill in your travel details and we'll help you find the right plan.</p>
+
+                    <form id="comparisonForm">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="tripStartDate">Trip Start Date <span style="color: #ff6b6b;">*</span></label>
+                                <input type="date" id="tripStartDate" name="tripStartDate" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="tripEndDate">Trip End Date <span style="color: #ff6b6b;">*</span></label>
+                                <input type="date" id="tripEndDate" name="tripEndDate" required>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="age">Your Age <span style="color: #ff6b6b;">*</span></label>
+                            <input type="number" id="age" name="age" min="18" max="150" placeholder="Enter your age" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="travelType">Type of Travel</label>
+                            <select id="travelType" name="travelType">
+                                <option value="">Select travel type</option>
+                                <option value="tourist">Tourist/Visitor</option>
+                                <option value="business">Business (B1/B2)</option>
+                                <option value="student">Student</option>
+                                <option value="family">Family Visit</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="preExisting">Do you have any pre-existing medical conditions?</label>
+                            <select id="preExisting" name="preExisting">
+                                <option value="">Select option</option>
+                                <option value="no">No</option>
+                                <option value="yes">Yes</option>
+                                <option value="prefer-not">Prefer not to say</option>
+                            </select>
+                        </div>
+
+                        <div class="form-submit">
+                            <input type="submit" value="Compare Plans Now">
+                        </div>
+                    </form>
+
+                    <p style="text-align: center; font-size: 0.9rem; color: #666; margin-top: 1.5rem;">
+                        <strong>Note:</strong> No personal information is stored. This is a preliminary comparison tool.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Information Section -->
+            <section style="margin-top: 4rem;">
+                <h3>Why Choose Insurance for Your USA Trip?</h3>
+                <p>Medical emergencies can happen unexpectedly and can be very expensive in the USA. Having visitor medical insurance protects both your health and your finances.</p>
+
+                <div class="cards-grid">
+                    <div class="card">
+                        <div class="card-icon">🏥</div>
+                        <h3>Medical Coverage</h3>
+                        <p>Insurance covers doctor visits, hospital stays, and emergency medical care when you're in the USA.</p>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon">💊</div>
+                        <h3>Prescription Support</h3>
+                        <p>Get help with prescription medication costs, which can be expensive without insurance.</p>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon">🚑</div>
+                        <h3>Emergency Care</h3>
+                        <p>Be covered for unexpected medical emergencies, including emergency transportation and hospitalization.</p>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon">☮️</div>
+                        <h3>Peace of Mind</h3>
+                        <p>Travel with confidence knowing you're protected against unexpected medical costs.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- What to Look For -->
+            <section>
+                <h3>What to Look For in Insurance Plans</h3>
+                
+                <h4 style="margin-top: 1.5rem; margin-bottom: 1rem; color: #001f3f;">Coverage Duration</h4>
+                <p>Choose a plan that covers your entire stay in the USA. Most plans offer coverage from 5 days to 364 days, depending on your needs.</p>
+
+                <h4 style="margin-top: 1.5rem; margin-bottom: 1rem; color: #001f3f;">Coverage Amounts</h4>
+                <p>Look at the maximum coverage amount for hospital stays and emergency care. Higher coverage provides better protection against unexpected costs.</p>
+
+                <h4 style="margin-top: 1.5rem; margin-bottom: 1rem; color: #001f3f;">Deductible & Co-payments</h4>
+                <p>Understand your deductible (the amount you pay before insurance kicks in) and co-payments (what you pay for each service). Lower deductibles often mean higher premiums.</p>
+
+                <h4 style="margin-top: 1.5rem; margin-bottom: 1rem; color: #001f3f;">Pre-existing Conditions</h4>
+                <p>Check whether the plan covers pre-existing medical conditions. Some plans include them automatically, while others may exclude or require additional premium.</p>
+
+                <h4 style="margin-top: 1.5rem; margin-bottom: 1rem; color: #001f3f;">Network Providers</h4>
+                <p>Verify that the plan covers hospitals and doctors in the areas you'll be visiting in the USA.</p>
+            </section>
+
+            <!-- Disclaimer -->
+            <section style="margin-top: 3rem;">
+                <div class="warning-box">
+                    <p><strong>Important Information:</strong></p>
+                    <p style="margin-top: 0.5rem;">Jozira provides information and comparison services only. Insurance purchase and policy management are handled by the insurance provider.</p>
+                    <p style="margin-top: 0.5rem;">Please verify all plan details, coverage, and pricing directly on the insurance provider's website before making a purchase. Insurance terms and conditions may change at any time.</p>
+                </div>
+            </section>
+
+            <!-- Next Steps -->
+            <section style="text-align: center; background-color: #f0f8ff; padding: 3rem 2rem; border-radius: 8px; margin-top: 3rem;">
+                <h3 style="color: #001f3f;">Ready to Choose Your Plan?</h3>
+                <p>Use the comparison form above to find the right insurance plan for your USA trip. Our trusted partners will help you complete your purchase.</p>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="usa-insurance.html">USA Insurance</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                        <li><a href="terms-conditions.html">Terms & Conditions</a></li>
+                        <li><a href="terms-conditions.html#affiliate">Affiliate Disclosure</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h4>About Jozira</h4>
+                    <p style="font-size: 0.9rem; color: #ccc;">Jozira.com is an independent affiliate marketing website and not a licensed insurance agency or underwriter. All insurance products are subject to the terms and conditions of the respective provider.</p>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2026 Jozira™. All rights reserved.</p>
+                <p>Jozira is not an insurance company or agent. We provide information and comparison services only.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

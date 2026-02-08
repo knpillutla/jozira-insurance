@@ -1,0 +1,554 @@
+Total pages: 12
+
+================================================================================
+PAGE 1
+================================================================================
+**JOZIRA  –  INSURANCE  AFFILIATE  WEBSITE**  
+Login  Credentials  
+ Link  -  https://auth.hostinger.com/in/login           krishnapillutla@gmail.com           reset2026!   
+Final  menu   
+●  Home  
+ ●  About  Us  
+ ●  USA  Insurance  
+ ●  Contact  Us  
+ ●  Privacy  Policy  
+ ●  Terms  and  Conditions  
+ 
+ 
+ 
+ 
+ 
+ 
+
+================================================================================
+PAGE 2
+================================================================================
+**JOZIRA  –  INSURANCE  AFFILIATE  WEBSITE**  
+REQUIREMENT  DOCUMENT  (FINAL  v1)**  
+ 
+ 
+1.  Project  Overview  
+Brand  Name:  JOZIRA™  Primary  Domain: https://jozira.com  Business  Type:  Insurance  Affiliate  &  Comparison  Website  
+Trademark
+ 
+Class:
+ 
+Class
+ 
+35
+ 
+Trademark
+ 
+Status:
+ 
+To
+ 
+Be
+ 
+Applied
+ 
+(Wordmark)
+ 
+Objective  
+To
+ 
+build
+ 
+a
+ 
+legally
+ 
+compliant,
+ 
+trustworthy,
+ 
+and
+ 
+user-friendly
+ 
+insurance
+ 
+comparison
+ 
+website
+ 
+focused
+ 
+on
+ 
+USA
+ 
+Visitor
+ 
+Medical
+ 
+Insurance,
+ 
+guiding
+ 
+users
+ 
+to
+ 
+suitable
+ 
+plans
+ 
+through
+ 
+affiliate
+ 
+partnerships.
+ 
+ 
+2.  Business  Goals  
+●  Build  long-term  trust  with  users  ●  Avoid  legal,  compliance,  and  affiliate  rejection  risks  ●  Maintain  a  single-focus  insurance  platform  ●  Start  with  affiliate  links  only  ●  Enable  future  API-based  comparison  after  approvals  ●  Do  not  store  sensitive  user  data  on  the  platform  ●  Do  not  collect  payments  or  process  transactions  on  the  website  
+ 
+3.  Target  Audience  
+●  Parents  visiting  the  USA  ●  B1/B2  visitors  ●  Tourists  and  short-term  travelers  ●  Students  traveling  or  studying  abroad  
+ 
+
+================================================================================
+PAGE 3
+================================================================================
+4.  Scope  –  Phase  1  
+Included  
+●  USA  Visitor  Medical  Insurance  comparison  ●  Informational  and  guidance-based  content  ●  Affiliate  redirection  only  ●  Static  or  form-based  comparison  
+Excluded  
+●  Flights  booking  ●  Direct  insurance  selling  ●  Claims  handling  ●  Payments  ●  API  integrations  
+ 
+5.  Website  Structure  
+Home  
+About
+ 
+Us
+ 
+USA
+ 
+Insurance
+ 
+Contact
+ 
+Us
+ 
+Privacy
+ 
+Policy
+ 
+Terms
+ 
+and
+ 
+Conditions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+================================================================================
+PAGE 4
+================================================================================
+6.  Page  Content  
+HOME  
+Welcome  to  Jozira.  
+We  help  visitors,  parents,  and  travelers  compare  medical  insurance  plans  for  travel  to  the  USA.  
+Choosing  insurance  can  be  confusing.  Our  goal  is  to  make  it  simple  by  explaining  options  
+clearly
+ 
+and
+ 
+helping
+ 
+you
+ 
+choose
+ 
+the
+ 
+right
+ 
+coverage
+ 
+with
+ 
+confidence.
+ 
+Why  people  trust  Jozira  
+Zero
+ 
+confusion.
+ 
+We
+ 
+simplify
+ 
+complex
+ 
+insurance
+ 
+terms
+ 
+into
+ 
+clear
+ 
+information.
+ 
+Direct
+ 
+links.
+ 
+You
+ 
+connect
+ 
+directly
+ 
+with
+ 
+trusted
+ 
+insurance
+ 
+providers.
+ 
+No
+ 
+extra
+ 
+cost.
+ 
+You
+ 
+pay
+ 
+the
+ 
+same
+ 
+price
+ 
+as
+ 
+buying
+ 
+directly
+ 
+from
+ 
+the
+ 
+provider.
+ 
+Jozira  does  not  sell  insurance.  We  provide  information  and  comparison  services  and  guide  
+users
+ 
+to
+ 
+trusted
+ 
+insurance
+ 
+companies.
+ 
+
+
+================================================================================
+PAGE 5
+================================================================================
+ 
+ABOUT  US  
+Jozira  was  created  to  help  travelers  and  visitors  understand  medical  insurance  options  without  
+confusion
+ 
+or
+ 
+pressure.
+ 
+We  focus  on  clear  information,  transparency,  and  honest  guidance  so  users  can  make  informed  
+decisions.
+ 
+Jozira  is  not  an  insurance  company  or  agent.  We  may  earn  a  commission  through  affiliate  
+partnerships
+ 
+when
+ 
+users
+ 
+purchase
+ 
+insurance
+ 
+through
+ 
+our
+ 
+links.
+ 
+  
+ 
+ 
+
+
+================================================================================
+PAGE 6
+================================================================================
+USA  INSURANCE  
+Use  this  page  to  compare  visitor  medical  insurance  plans  for  travel  to  the  USA.  
+Enter  your  travel  details  to  view  suitable  insurance  options  and  understand  which  plans  may  fit  
+your
+ 
+needs.
+ 
+Ready  to  find  the  right  plan?  Click  Compare  to  see  options  from  our  trusted  partners.  
+Jozira  provides  information  and  comparison  services  only.  Insurance  purchase  and  policy  
+management
+ 
+are
+ 
+handled
+ 
+by
+ 
+the
+ 
+insurance
+ 
+provider.
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+PAGE 7
+================================================================================
+ 
+CONTACT  US  
+If  you  have  general  questions  about  using  this  website,  you  can  contact  us  using  the  form  
+below.
+ 
+For  claims,  policy  changes,  or  emergencies,  please  contact  your  insurance  provider  directly.
+ 
+  
+ 
+
+
+================================================================================
+PAGE 8
+================================================================================
+ 
+PRIVACY  POLICY  
+Your  privacy  is  important  to  us.  
+We  collect  limited  information  to  improve  website  functionality  and  user  experience.  
+We  use  cookies  and  similar  technologies  to  track  affiliate  referrals  and  understand  how  visitors  
+use
+ 
+our
+ 
+website.
+ 
+Our  website  may  contain  third-party  affiliate  links.  When  you  click  these  links,  you  are  subject  to  
+the
+ 
+privacy
+ 
+policies
+ 
+of
+ 
+the
+ 
+respective
+ 
+third-party
+ 
+providers.
+ 
+We  do  not  store  sensitive  personal  information  such  as  payment  details,  insurance  policy  
+numbers,
+ 
+or
+ 
+government-issued
+ 
+identification
+ 
+on
+ 
+our
+ 
+servers.
+ 
+Personal  information  is  not  sold  or  shared  except  as  required  for  affiliate  tracking,  service  
+functionality,
+ 
+or
+ 
+legal
+ 
+compliance.
+ 
+This  website  is  intended  for  users  aged  18  years  and  above.  
+ 
+
+================================================================================
+PAGE 9
+================================================================================
+ 
+ 
+ 
+ 
+
+
+================================================================================
+PAGE 10
+================================================================================
+TERMS  AND  CONDITIONS  
+Jozira  provides  informational  and  comparison  services  only.  
+We  do  not  sell  insurance,  handle  claims,  collect  payments,  or  provide  policy  advice.  
+The  information  provided  on  this  website  is  for  general  informational  purposes  only  and  should  
+not
+ 
+be
+ 
+considered
+ 
+financial,
+ 
+legal,
+ 
+or
+ 
+professional
+ 
+advice.
+ 
+Insurance  plan  details,  coverage,  and  pricing  may  change  at  any  time.  Users  are  responsible  for  
+verifying
+ 
+all
+ 
+information
+ 
+directly
+ 
+on
+ 
+the
+ 
+insurance
+ 
+provider’s
+ 
+website
+ 
+before
+ 
+making
+ 
+a
+ 
+purchase.
+ 
+All  insurance  products  are  offered  by  third-party  providers  and  are  subject  to  their  terms  and  
+conditions.
+ 
+Jozira  is  not  responsible  for  insurance  claims,  policy  disputes,  or  decisions  made  based  on  the  
+information
+ 
+provided
+ 
+on
+ 
+this
+ 
+website.
+ 
+By  using  this  website,  you  agree  to  use  the  information  provided  at  your  own  discretion  
+
+================================================================================
+PAGE 11
+================================================================================
+ 
+  
+ 
+ 
+ 
+
+
+================================================================================
+PAGE 12
+================================================================================
+AFFILIATE  DISCLOSURE  (ADD  THIS  AT  END  OF  TERMS  PAGE)  
+Jozira.com  participates  in  affiliate  programs  and  may  earn  a  commission  when  
+users
+ 
+purchase
+ 
+insurance
+ 
+through
+ 
+our
+ 
+links
+ 
+at
+ 
+no
+ 
+additional
+ 
+cost
+ 
+to
+ 
+the
+ 
+user.
+ 
+FOOTER  TEXT  
+Jozira.com  is  an  independent  affiliate  marketing  website  and  not  a  licensed  insurance  agency  or  
+underwriter.
+ 
+All
+ 
+insurance
+ 
+products
+ 
+are
+ 
+subject
+ 
+to
+ 
+the
+ 
+terms
+ 
+and
+ 
+conditions
+ 
+of
+ 
+the
+ 
+respective
+ 
+provider.
+ 
+ 
+ 
+  
+ 
